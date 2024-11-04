@@ -88,3 +88,4 @@
     <script src="script.js"></script>
 </body>
 </html>
+https://github.com/femascheti/criando-sua-aventura/blob/aula-07/img/cenario-passo0.png
